@@ -1,0 +1,2 @@
+# Programming with Python
+Content under revision! Based on the [Turtle Graphics with Python coding activity](https://github.com/hylandtechoutreach/coding-activities/tree/main/PythonTurtle#turtle-graphics-with-python-lesson-plan), or also maybe the [MCCCC Session](https://github.com/hylandtechoutreach/mcccc/tree/main/Archive/Python#python).
