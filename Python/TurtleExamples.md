@@ -10,6 +10,6 @@ Turtles can do so much! Here are some possibilities for your turtles.
 - [Spider-Man Vortex](https://hytop.onrender.com/e/turtle-spider-man-vortex)
 - [Random Dots](https://hytop.onrender.com/e/turtle-random-dots)
 - [Gradient](https://hytop.onrender.com/e/turtle-gradient)
-- [Color Circle Spiral](https://hytop.onrender.com/e/turtle-color-circle-spiral)
+- [Color Cycle Spiral](https://hytop.onrender.com/e/turtle-color-cycle-spiral)
 - [House](https://hytop.onrender.com/e/turtle-house)
 - [Outrun Umbrella](https://hytop.onrender.com/e/turtle-outrun-umbrella)
