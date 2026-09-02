@@ -6,6 +6,3 @@ Welcome to the CS Sampler Hy-Tech Club Course!
 
 ## Submissions
 [Click here to share things.](https://forms.cloud.microsoft/r/7gpN1bapkv)
-
-## Content
-- [Python](Python/StudentDesc.md)

@@ -7,4 +7,4 @@ Chat with some of these chatbots, just for fun!
 [Click here to test your humanity, and your ability to discern the humanity of others!](https://turingtest.live/play/)
 
 ## ELIZA
-[Click here to talk to ELIZA, an early computer therapist.](https://web.njit.edu/~ronkowit/eliza.html)
+[Click here to talk to ELIZA, an early computer therapist.](https://www.masswerk.at/elizabot/)

@@ -4,6 +4,9 @@ This session is all about artificial intelligence!
 ## Warm-Up: Vibe Drawing
 [Click here for the warm-up instructions.](VibeDrawingWarmUp.md)
 
+## Chatbots
+[Click here for chatbots.](Chatbots.md)
+
 ## Vibe Architecture
 [Click here for the Vibe Architecture instructions.](VibeArchitecture.md)
 
