@@ -7,6 +7,7 @@
   - [Debugging](Python/DebuggingLoops.md)
 - [p5.js](p5js/StudentDesc.md)
 - [Twine](Twine/StudentDesc.md)
+  - [Page 2](Twine/Page2.md)
 - [Artificial Intelligence](ArtificialIntelligence/StudentDesc.md)
   - [Warm-Up: Vibe Drawing](./ArtificialIntelligence/VibeDrawingWarmUp.md)
   - [Chatbots](./ArtificialIntelligence/Chatbots.md)
