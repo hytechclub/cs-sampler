@@ -1,6 +1,9 @@
 # CS Sampler Course Overview
 This course introduces a new computer science topic every week. Topics include Python Programming, A.I., Game Design, and more. Each lesson is introductory in nature, so the course is suitable for students of all levels. The goal is to expose students to the wide breadth of CS possibilities, and inspire them to continue learning. Since the curriculum is not cumulative, students may be able to join even after the semester has begun.
 
+## View Sharing Responses
+[Click here for the sheet.](https://hylandsw-my.sharepoint.com/:x:/g/personal/techoutreachteam_hyland_com/IQAQJuO8M8huQ69mm_qXpc_KAW_h9EvwzpVBzhPWkaNh0HY?e=zCUDHI) This should contain all submissions to the form linked on the [course homepage.](./BOOKREADME.md)
+
 ## Fall 2026 Schedule
 
 | Date | Topic |
