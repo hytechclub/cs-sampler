@@ -7,6 +7,9 @@ Welcome to the CS Sampler Hy-Tech Club Course!
 ## Submissions
 [Click here to share things.](https://forms.cloud.microsoft/r/7gpN1bapkv)
 
+## Schedule
+View the Schedule here.
+
 - [Week 1 (9/29) - Programming with Python](Python/StudentDesc.md)
 - [Week 2 (10/6) - Creative Coding with p5.js](p5js/StudentDesc.md)
 - [Week 3 (10/13) - Interactive Storytelling with Twine](Twine/StudentDesc.md)
