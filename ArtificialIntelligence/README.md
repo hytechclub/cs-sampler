@@ -1,4 +1,5 @@
 # Artificial Intelligence
+This lesson is all about artificial intelligence
 
 ### Agenda
 
@@ -33,4 +34,4 @@ Facilitate the [Gimkit game](http://gimkit.com/view/68f651aec328f4c55fcacf00).
 - Username: **techoutreachinstructor@gmail.com**
 - Password: **BabaBlackSh33p!**
 
-There are also [more detailed instructions](GimkitInstructions.md) for setting up the game.
+There are also [more detailed instructions](https://github.com/hylandtechoutreach/mcccc/blob/main/ArtificialIntelligence2/GimkitInstructions.md#gimkit-instructions) for setting up the game.
