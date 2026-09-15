@@ -4,11 +4,14 @@ This session is all about making retro games.
 ## Icebreaker: Sketch Toy
 [Click here to draw a video game character!](https://sketchtoy.com/) It can be an existing character, or a totally new one. When you're done, click the "SAVE" button at the top, copy the link, and share it using the form on the [course homepage](../BOOKREADME.md).
 
-## Code-Along
+## Follow-Along
 **[START](https://arcade.makecode.com/#editor)** | [Instructions](FollowAlong.md)
 
 ## Game Sharing
 [Click here for sharing instructions!](SharingGames.md)
+
+## if you beat this you get candy
+[this one](https://arcade.makecode.com/10634-78979-18985-54012)
 
 ### More Games
 Here are some additional games you can play:

@@ -6,10 +6,10 @@ Here are some general guidelines for the overall flow of the camp:
 
 | Activity | Time |
 |-|-|
-| Warm-Up | 30m |
+| Warm-Up | 15m |
 | Presentation | 15m |
+| Follow-Along | 45m |
 | Break | 10m |
-| Follow-Along | 30m |
 | Challenges | 15m |
 | Game Sharing | 10m |
 | Blooket | 10m |
