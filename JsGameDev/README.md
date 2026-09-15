@@ -27,6 +27,8 @@ Walk students through the [Fill-In-The-Variables Code-Along activity](https://hy
 ## POWER-UP Activity
 Walk the students through the [POWER-UP Code-Along activity](https://hylandtechoutreach.github.io/coding-activities/ThreeJs3dGame/AddPowerUpCodeAlong.html).
 
+_[If needed, click here to open / fork the "complete" version of the game for this activity.](https://hytop.onrender.com/e/three-js-blank-game-1)_
+
 ## Self-Paced Work
 With remaining time, students can continue updating their games. They can also explore the [resources](https://hylandtechoutreach.github.io/coding-activities/ThreeJs3dGame/Resources.html), or dive deeper into some of the examples from earlier.
 
