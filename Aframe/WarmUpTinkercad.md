@@ -4,8 +4,12 @@ In this activity, create a 3D model of something!
 ## Getting Started: Tinkercad Account
 In order to use Tinkercad, an account is required. Luckily, there are already credentials you can use!
 
+Credentials:
 - **Username**: `hytostudent@gmail.com`
 - **Password**: `C0dingIsFun!`
+
+### Instructions
+Follow these steps to get started with a new 3D design:
 
 1. Go to [tinkercad.com/login](https://www.tinkercad.com/login)
 1. Click the blue "Personal accounts" button
