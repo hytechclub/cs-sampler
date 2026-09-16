@@ -7,9 +7,9 @@ Is this session, students will learn to build a 3D world with [A-Frame](https://
 |-|-|
 | Warm-Up | 15m |
 | Videos | 15m |
-| Code-Along | 30m |
-| Break | 15m |
-| Self-Paced Time | 45m |
+| Code-Along | 40m |
+| Break | 10m |
+| Self-Paced Time | 40m |
 
 ## Warm-Up: 3D Modeling
 Help the students walk through the [warm-up activity](./WarmUpTinkercad.md) where they will create their own 3D models. Once they've submitted their work, go through each model to see what they did!
