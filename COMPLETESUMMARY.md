@@ -23,4 +23,6 @@
   - [Sharing Games](./MakeCodeArcade/SharingGames.md)
 - [JavaScript Game Development](JsGameDev/StudentDesc.md)
 - [A-Frame](Aframe/StudentDesc.md)
+  - [Warm-Up](./Aframe/WarmUpTinkercad.md)
+  - [Resources](./Aframe/Resources.md)
 - [Final Project](FinalProject/StudentDesc.md)
